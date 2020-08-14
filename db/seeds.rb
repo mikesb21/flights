@@ -15,7 +15,7 @@ airlines = Airline.create([
                             },
                             {
                               name: 'Southwest',
-                              image_url: 'https://open-flights.s3.amazonaws.com/Southwest.png'
+                              image_url: 'https://cdn.travelpulse.com/images/99999999-9999-9999-9999-999999999999/af17386c-b7a5-285c-75e5-3ee7c2fb446f/630x355.jpg'
                             },
                             {
                               name: 'Delta',
